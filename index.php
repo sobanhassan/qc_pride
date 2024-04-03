@@ -1,0 +1,80 @@
+<?php $title="Home";
+include'includes/header.php'?>
+        <div class="banner">
+            <img src="images/PIM-steering-committee-members.jpg" alt="banner">
+        </div>
+        <div class="banner-text">
+            <p style="color: white">PRESERVING</p>
+            <p style="color: white">LGBTQ+</p>
+            <p style="color: white">HISTORY FROM THE QUAD CITIES</p>
+        </div>
+    </header>
+    <div class="justify adjust mid-text">
+        <h1>WHO WE ARE</h1>
+        <p>
+             The mission of Quad Cities Pride in Memory is to document and preserve the local LGBTQ+ history of the Quad Cities area and to provide educational opportunities for the public.
+        </p>
+        
+    </div>
+    <div class="justify adjust added-margin">
+        <h2 align="center">WHAT WE ARE DOING</h2>
+        <div class="one-by-four-grid">
+            <div>
+                <p>Preserving history of LGBTQ+ from the QC</p>
+            </div>
+            <div>
+                <p>Completing 30+<br> oral and video histories</p>
+            </div>
+            <div>
+                <p>Working with diverse community partners</p>
+            </div>
+            <div>
+                <p>Educating and advocating in our community</p>
+            </div>
+        </div>
+    </div>
+    <div class="justify adjust mid-text">
+        <p><a class="button" href="about.php">Read more about us</a></p><br />
+    </div>
+    <hr />
+    <section id="media-bg">
+        <div class="mid-text justify adjust">
+            <h1>MEDIA HUB</h1>
+            <p>
+                This is a multi-media documentation of local LGBTQ+ history.
+            </p>
+        </div>
+        <div class="one-by-three-grid justify adjust roundImages">
+            <div>
+                <img src="images/stories.JPG" alt="">
+                <h2>STORIES</h2>
+                <p>Quad Cities Pride in Memory is an oral history collaboration aimed at preserving the memories of LGBTQ+ Quad City seniors in the context of local & world events.  Using video and audio recordings, the project asks respondents to tell their own stories in their own words. The personalized nature of the interviews results in stories that are profound, offering insights into the living memories of seniors as they recount major milestones and daily routines.  Access to both video and audio recordings of oral histories is available here.</p>
+            </div>
+            <div>
+                <img src="images/pim-putnam-exhibits/exhibit3.jpg" alt="">
+                <h2>VISUAL HISTORY</h2>
+                <p>Digital images and explanations of artifacts are stored here. Visual history contains images of items archived at the Putnam Museum and the Historical Panels Project.  We are accepting donations of text material of any sort, from personal letters to newsletters, and objects of historical value, such as buttons, banners, art work, and audiovisual materials such as tapes CDs/DVDs, and digital files.</p>
+            </div>
+            <div>
+                <img src="images/panels-at-bettendorf-library-trimmed.jpg" alt="">
+                <h2>PROJECTS</h2>
+                <p>This section is under construction</p>
+            </div>
+        </div>
+    </section>
+    <section class="justify adjust">
+        <h2>Contact Us</h2>
+        <div class="one-by-two-grid">
+            <div>
+                <p>Phone: 563-324-8281</p>
+                <p>Find us on Social Media: Quad Cities Pride in Memory</p>
+            </div>
+            <div>
+                <p>Address: Q.C. Pride in Memory<br>
+                2930 W. Locust Street<br>
+                Davenport, IA 52804</p>
+            </div>
+        </div>
+    </section>
+</body>
+<?php include'includes/footer.php'?>
